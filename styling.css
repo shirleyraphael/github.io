@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Noto+Serif|Nunito+Sans|Playfair+Display|Source+Serif+Pro');
+
+/*1. make the background color black: #212122*/
+.my-body{
+    background-color: black;
+    color:white;
+}
+/*2. change the font family to: 'Playfair+Display'*/
+.heading{
+    font-family: 'Playfair Display', serif;
+}
+/*3. change the font family to: 'Playfair+Display'*/
+.paragraph{
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem
+}
+
